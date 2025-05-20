@@ -24,7 +24,7 @@ This project implements Neural Style Transfer using TensorFlow and Streamlit. It
 
 ```bash
 # Clone the repo
-git clone <repo-url>
+git clone https://github.com/rahulsm067/Neural-Style-Transfer-pro.git
 cd NEURAL-STYLE-TRANSFER
 
 # Create and activate virtual env
